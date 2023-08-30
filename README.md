@@ -2,7 +2,7 @@
 
 I'm a software engineer located in the SF Bay Area. I'm also a former student of mathematics and computer science at NYU, an Eagle Scout who loves the outdoors, and an avid video game nerd among many other things. 🔢🌲🎮
 
-I'm currently jumping back into learning Python after picking it up in undergrad, and I'm looking to learn more about Django as well. 🐍
+I'm currently jumping back into learning Python after picking it up in undergrad, and I'm working on a bulletin app using React/Express/Postgres. 🐍
 
 ### Please take a look at some of the [projects I've built](https://matthewgoodbar.github.io)! 🏗️
 
